@@ -1,0 +1,55 @@
+body {
+  background-color: #000;
+  font-family: 'Open Sans Condensed', sans-serif;
+  width: 500px;
+  margin: 0 auto;
+  user-select: none;
+  font-size: 20px;
+}
+
+img {
+  display: block;
+  margin-top: 40px;
+  margin-bottom: 20px;
+  width: 100%;
+}
+p {
+  color: #fbff9a;
+  text-align: center;
+}
+
+.btn {
+  display: inline-block;
+  width: 20%;
+  text-align: center;
+  padding: 5px;
+  border: 1px dotted grey;
+  margin: 5px;
+  width: 90px;
+  height: 90px;
+  position: relative;
+  line-height: 45px;
+  cursor: pointer;
+  transition: all 34ms ease-in-out;
+}
+
+.btn:active {
+  background-color: #fbff9a;
+}
+.btn p {
+  margin: 0;
+}
+
+.firstLine p{
+  color: #e60000;
+}
+.secondLine p {
+  color: #ffffcc;
+}
+.thirdLine p {
+  color: #e6e600;
+}
+
+.fourthLine p {
+  color: #990000;
+}
