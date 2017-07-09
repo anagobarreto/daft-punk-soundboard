@@ -8,4 +8,4 @@
 # Daft Punk Soundboard
 
 <br>
-<p>This was one of our first homeworks at the WDI course when learning javaScript. It consists of a sound board with sounds from the music _Harder Better Faster_ from the band _Daft Punk_.</p>
+<p>This was one of our first homeworks at the WDI course when learning javaScript. It consists of a sound board with sounds from the music *Harder Better Faster* from the band *Daft Punk*.</p>
